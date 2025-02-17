@@ -1,6 +1,6 @@
 # youtube-thumbnail-downloader-
 ## Live Demo
-<a href="https://youtube-thumbnail-downloader-5t3.pages.dev/" download>
+<a href="https://yt-thumbnail-downloader.pages.dev/" download>
   <button style="background-color:blue; color:white; padding:10px 20px; border:none; border-radius:5px; font-size:16px;">
     Click Here
   </button>
